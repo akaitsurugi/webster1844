@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an okay dictionary. If you're interested in a better one, check out the [1828 version](https://codeberg.org/christianlibertyinstitute/webster1828), also released by [Christian Liberty Institute](http://christianlibertyinstitute.org/).
+This is an okay dictionary. If you're interested in a better one, check out the [1828 version](https://codeberg.org/akaitsurugi/webster1828), also released by [Akai Tsurugi](http://akaitsurugi.org/).
 
 ## Installation Instructions
 
@@ -15,7 +15,7 @@ This is an okay dictionary. If you're interested in a better one, check out the 
 
 This has been tested with:
 - The Dictionary.app in Mac OS X Snow Leopard. It may work with earlier versions and should work with whatever garbage OS Apple is putting out now.
-- The SWORD module using MacSword and Xiphos.
+- The SWORD module using MacSword (Eloquent) and Xiphos.
 - KOReader (2023 release) running on a Kobo Aura H2O.
 
 I don't use Kobo's built-in dictionary or Plato, so I cannot vouch for the quality of those and I didn't test the Kindle version because the 1828 is superior.
