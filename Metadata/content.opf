@@ -6,9 +6,9 @@ xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
 <dc:Title>Webster's Dictionary 1844</dc:Title>
 <dc:Language>en</dc:Language>
 <dc:Identifier id="uid">**REPLACE**</dc:Identifier>
-<dc:Creator>Christian Liberty Institute</dc:Creator>
+<dc:Creator>Akai Tsurugi</dc:Creator>
 <dc:Rights>CC BY-SA 4.0: This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.</dc:Rights>
-<dc:description>This is an okay dictionary. If you're interested in a better one, check out the 1828 version, also released by Christian Liberty Institute. This is maintained by Christian Liberty Institute.</dc:description>
+<dc:description>This is an okay dictionary. If you're interested in a better one, check out the 1828 version, also released by Akai Tsurugi.</dc:description>
 <dc:Subject BASICCode="REF008000">Dictionaries</dc:Subject>
 </dc-metadata>
 <x-metadata>
